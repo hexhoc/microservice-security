@@ -1,0 +1,8 @@
+rootProject.name = 'microservice-security'
+
+include 'gateway-service'
+include 'config-service'
+include 'discovery-service'
+include 'user-service'
+include 'departments-service'
+include 'auth-service'
